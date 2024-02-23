@@ -2,3 +2,5 @@ In this notebook, we will explore sentiment analysis in Python using two differe
 
 VADER (Valence Aware Dictionary and sEntiment Reasoner) - Utilizing a Bag of Words approach.
 Roberta Pretrained Model from 🤗 Huggingface Pipeline
+
+https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
